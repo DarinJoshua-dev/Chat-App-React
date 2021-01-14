@@ -4,4 +4,4 @@ A simple chat app created with React and Firebase.
 
 ## Check out my live webapp demo here: https://dj-chat-app.herokuapp.com/
 
-Learning Code Courtesy : fireship.io
+> Learning Courtesy : fireship.io
